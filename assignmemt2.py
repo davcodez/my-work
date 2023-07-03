@@ -30,3 +30,4 @@ def convert_to_emoji(text):
 text = input("Enter some text: ")
 converted_text = convert_to_emoji(text)
 print("Converted text:", converted_text)
+#THE END
