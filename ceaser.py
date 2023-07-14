@@ -14,7 +14,7 @@ if __name__ == "__main__":
             else:
                 encrypted_text += char
 
-        print("Encrypted text:", encrypted_text)
+        print("Encrypted text :", encrypted_text)
 
     elif choice.upper() == "D":
         text = input("Enter the text to decrypt: ")
@@ -33,3 +33,4 @@ if __name__ == "__main__":
 
     else:
         print("Invalid choice.")
+RecursionError
